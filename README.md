@@ -6,3 +6,7 @@ My analysis scope is to analyze the firms sales in bikes, bike's accessories and
 Related to my techniques, I have cleaned, validated and manipulated my data inside Query Editor at back-end level and I have also created some calculated columns at front-end level at table view.
 Last but not least I have created advanced explicit DAX measures for better performance and created interactive visualizations combined with some advanced techniques like a drillthrough connection between the matrix of top 10 products of the Exec Dashboard and the Product Details Dashboard.
 I hope you find this one interesting!
+
+Tip: It is provided both .pbix and pdf files for technical and non technical ones.
+Here is a weblink of my Analysis
+https://app.powerbi.com/groups/me/reports/5dcf065f-5820-4635-a236-71a4606b930d/920c19db4e9e805ac104?experience=power-bi
